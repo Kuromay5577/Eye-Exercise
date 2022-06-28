@@ -1,6 +1,7 @@
 # Eye-Exercise
 creates two eyes in the webpage. the eyes follow the mouse. This exercise uses HTML, Java Script, and CSS.
 
+how to run: moves mouth around eyes.  eyes follow the mouse.
 
 Copyright 2022 COPYRIGHT May Rogers
 
